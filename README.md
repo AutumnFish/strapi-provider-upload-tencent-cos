@@ -8,5 +8,5 @@ A tencent cos provider plugin deved for strapi.
 
 [Useing a provider](https://strapi.io/documentation/3.0.0-beta.x/plugins/upload.html#using-a-provider)
 
-Thank you for [strapi-provider-upload-tencent](https://www.npmjs.com/package/strapi-provider-upload-tencent)
+Thanks [strapi-provider-upload-tencent](https://www.npmjs.com/package/strapi-provider-upload-tencent)
 
