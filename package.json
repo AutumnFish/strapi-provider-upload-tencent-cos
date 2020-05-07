@@ -10,6 +10,10 @@
     "tencent",
     "cos"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AutumnFish/strapi-provider-upload-tencent-cos.git"
+  },
   "directories": {
     "lib": "./lib"
   },
