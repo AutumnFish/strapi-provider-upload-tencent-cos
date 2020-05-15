@@ -10,3 +10,38 @@ A tencent cos provider plugin deved for strapi.
 
 Thanks [strapi-provider-upload-tencent](https://www.npmjs.com/package/strapi-provider-upload-tencent)
 
+
+
+## Installation
+
+```bash
+npm i strapi-provider-upload-tencent-cos
+```
+
+Or use yarn
+
+```bash
+yarn add strapi-provider-upload-tencent-cos
+```
+
+
+
+## config
+
+`./extensions/upload/config/settings.json`
+
+```
+{
+  "provider": "tencent-cos",
+  "providerOptions": {
+    "accessKeyId": "Your KeyId",
+    "secretAccessKey": "Your AccessKey",
+    "region": "Your bucket region",
+    "params": {
+      "bucket": "Your bucket name"
+    }
+  }
+}
+
+```
+
